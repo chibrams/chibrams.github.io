@@ -7,10 +7,7 @@
 
                 
                                                                                                     
-                <trk>
-                    <name><![CDATA[Track no: 1]]></name>
-                    <desc><![CDATA[This is track no: 1]]></desc>
-                    <number>1</number>
+                <trk><name>X Loop</name><number>4</number>
                     <trkseg>
                                                                                                                                                                                                 <trkpt lat="5106667.6665" lon="308911.3511">
                                                                                                             <ele>140.9219</ele>

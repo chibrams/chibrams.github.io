@@ -1,16 +1,7 @@
 <?xml version="1.0"?>
 <gpx version="1.1" creator="GDAL 2.2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <metadata><bounds minlat="46.086620610222980" minlon="-77.478083081613804" maxlat="46.089369244383363" maxlon="-77.472628599270692"/></metadata>                
-<trk>
-  <extensions>
-    <ogr:OBJECTID>1</ogr:OBJECTID>
-    <ogr:DEMResolution>1000m</ogr:DEMResolution>
-    <ogr:ProductName>GEBCO_14</ogr:ProductName>
-    <ogr:Source>GEBCO</ogr:Source>
-    <ogr:Source_URL>www.gebco.net</ogr:Source_URL>
-    <ogr:ProfileLength>1673.81020507418998</ogr:ProfileLength>
-    <ogr:Shape_Length>1673.894230652472288</ogr:Shape_Length>
-  </extensions>
+<trk><name>M Loop</name><number>3</number>
   <trkseg>
     <trkpt lat="46.087747624959654" lon="-77.472628599270692">
         <ele>137.0</ele>

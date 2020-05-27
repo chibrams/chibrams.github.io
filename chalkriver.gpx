@@ -4,11 +4,7 @@
 
                 
                                                                                                     
-                <trk>
-                    <names><![CDATA[Track no: 1]]></names>
-                    <desc><![CDATA[This is track no: 1]]></desc>
-                    <number>1</number>
-                    <trkseg>
+<trk><name>Chalk River to Deep River</name><number>4</number>
                                                                                                                                                                                                 <trkpt lat="5106769.3028" lon="308843.7036">
                                                                                                             <ele>137</ele>
                                     <names>1</names>

@@ -1,16 +1,11 @@
 <?xml version="1.0" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" creator="KML2GPX.COM" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-    <metadata>
-        <names><![CDATA[Converted from a KML file using KML2GPX.COM]]></names>
-        <desc><![CDATA[Converted from a KML file KML2GPX.COM]]></desc>
-                </metadata>
+
 
                 
                                                                                                     
                 <trk>
-                    <names><![CDATA[Track no: 1]]></names>
-                    <desc><![CDATA[This is track no: 1]]></desc>
-                    <number>1</number>
+<trk><name>X Loop</name><number>4</number>
                     <trkseg>
                                                                                                                                                                                                 <trkpt lat="5106667.6665" lon="308911.3511">
                                                                                                             <ele>140.9219</ele>
